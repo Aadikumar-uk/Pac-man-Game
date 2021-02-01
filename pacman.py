@@ -1,6 +1,6 @@
 """Pacman, classic arcade game.
 
-Exercises of a game
+Exercises of a GAME
 
 1. Change the board.
 2. Change the number of ghosts.
